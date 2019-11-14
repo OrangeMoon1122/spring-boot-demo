@@ -21,6 +21,7 @@ import java.util.List;
  * @version: V1.0
  * @modified: yangkai.shen
  */
+
 @Mapper
 @Component
 public interface UserMapper {
